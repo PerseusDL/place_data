@@ -1,6 +1,6 @@
 # Perseus Place Data Repository
 
-This repository holds data and mappings for place entities in the Perseus corpus.
+This repository will hold data and mappings for place entities in the Perseus corpus.
 
 Tufts University holds the overall copyright to the Perseus Digital Library; the materials therein (including all texts, translations, images, descriptions, drawings, etc.) are provided for the personal use of students, scholars, and the public.
 
